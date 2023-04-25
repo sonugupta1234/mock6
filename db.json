@@ -1,5 +1,24 @@
 {
-    "server": [
-     
-    ]
-  }
+  "cars": [
+    {
+      "brand": "Tata",
+      "type": "Manual",
+      "year": "2019",
+      "kms": "20000",
+      "Description": "Tata Nexon Car",
+      "Price": "200000",
+      "id": 1
+    }
+  ],
+  "wishlisted_cars": [
+    {
+      "brand": "Tata",
+      "type": "Manual",
+      "year": "2019",
+      "kms": "20000",
+      "Description": "Tata Nexon Car",
+      "Price": "200000",
+      "id": 1
+    }
+  ]
+}
